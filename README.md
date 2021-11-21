@@ -26,7 +26,7 @@ As from above table we observe that Genrally for forest land the Green part is d
 # Entropy value
 |Land type|Mountains|Houses|Forest|Barren|Agricultura|
 |---------|-------|---------|---------|-------|--------|
-|Entropy||7.91|7.77|5.71|6.17|6.41|
+|Entropy|7.91|7.77|5.71|6.17|6.41|
 
 # Approach 1(Individual image):
 
