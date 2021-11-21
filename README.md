@@ -51,4 +51,4 @@ can give a better result.<br />
 -> Now For Barren land as there will be uniformity in the image so we observe high value of Homogeneity.<br /> 
 -> The remaining land we classify as Aggricultiral land because it can contain properties of Barren land as well as Forest . <br />
 
-<img src="Term.jpg">
+<img src="cEdDG.png">
