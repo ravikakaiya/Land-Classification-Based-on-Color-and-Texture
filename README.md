@@ -18,10 +18,10 @@ As from above table we observe that Genrally for forest land the Green part is d
 
 |Properties\Land type|Mountains|Houses|Forest|Barren|Agricultura|
 |---------|-------|---------|---------|-------|--------|
-|Contras|0.56|0.25|0.25|0.059|0.114|
-|Correlation|0.92|0.96|0.38|0.92|0.904|
-|Energy|0.05|0.08|0.478|0.44|0.32|
-|Homogeneity|0.78|0.88|0.876|0.97|0.94|
+|Contras|0.56|0.25|0.69|0.059|0.114|
+|Correlation|0.92|0.96|0.79|0.92|0.904|
+|Energy|0.05|0.08|0.08|0.44|0.32|
+|Homogeneity|0.78|0.88|0.74|0.97|0.94|
 
 # Entropy value
 |Land type|Mountains|Houses|Forest|Barren|Agricultura|
