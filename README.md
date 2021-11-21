@@ -44,7 +44,7 @@ have forest.<br />
 -> Here we pass the images having different type of land view.<br />
 -> Than we Find the Gray level co occurrence matrix(GLCM).<br />
 -> Using GLCM we Found the properties of the Texture (Contras,Correlation,Energy,Homogeneity)<br />
--> Here as we have values for all type of aggricultural land than we can compare in between them which 
+-> Here as we have values for all type of land so, we can compare in between them, which 
 can give a better result.<br />
 -> Here as for Mountains the shadows and bright parts form a drastic change in intesity so it have highest value of contrast.<br />
 -> For the Houses we observe that correlation is very high because it show the inter relation between pixel to pixel.<br />
