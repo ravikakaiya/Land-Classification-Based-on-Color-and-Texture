@@ -30,25 +30,25 @@ As from above table we observe that Genrally for forest land the Green part is d
 
 # Approach 1(Individual image):
 
--> Here we start with if the value for entropy is higher than some threshold we can say there are higher 
+-> Here we start with, if the value for entropy is higher than some threshold we can say there are higher 
 probability of the land containing Mountains.<br />
--> Than Secondly we find the highest present color in the image ,if the comes out to be Green than we can say the land 
+-> Than Secondly we find the highest present color in the image ,if it comes out to be Green than we can say the land 
 have forest.<br />
 -> We calculated Gray level co occurrence matrix(GLCM) and from that we found different properties(Contras,Correlation,Energy,Homogeneity)<br />
--> Now we see that the lowest value occurs for contrast than there equal likely chances for Barren land or aggricultural land. <br />
+-> Now we see that the lowest value occurs for contrast than it is equal chances for Barren land or aggricultural land. <br />
 -> Than we see if the dominant value of color is red than very likely the land is barren land. Else it is aggricultural land.<br />
--> The Rest land can be treated as land containg Houses.<br />
+-> The Rest land can be treated as land containing Houses.<br />
 
 # Approch 2(Multi image):
 
 -> Here we pass the images having different type of land view.<br />
--> Than we Find the Gray level co occurrence matrix(GLCM).<br />
+-> Than we Find the Gray level co occurrence matrix(GLCM) for all the images.<br />
 -> Using GLCM we Found the properties of the Texture (Contras,Correlation,Energy,Homogeneity)<br />
 -> Here as we have values for all type of land so, we can compare in between them, which 
 can give a better result.<br />
--> Here as for Mountains the shadows and bright parts form a drastic change in intesity so it have highest value of contrast.<br />
+-> Here as for Mountains, the shadows and bright parts form a drastic change in intesity so it have highest value of contrast.<br />
 -> For the Houses we observe that correlation is very high because it show the inter relation between pixel to pixel.<br />
 -> Now For Barren land as there will be uniformity in the image so we observe high value of Homogeneity.<br /> 
--> The remaining land we classify as Aggricultiral land because it can contain properties of Barren land as well as Forest . <br />
+-> The remaining land we can classify as Aggricultiral land because it can contain mix properties of Barren land as well as Forest . <br />
 
 <img src="Term.png">
