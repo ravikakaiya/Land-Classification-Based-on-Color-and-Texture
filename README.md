@@ -49,4 +49,6 @@ can give a better result.<br />
 -> Here as for Mountains the shadows and bright parts form a drastic change in intesity so it have highest value of contrast.<br />
 -> For the Houses we observe that correlation is very high because it show the inter relation between pixel to pixel.<br />
 -> Now For Barren land as there will be uniformity in the image so we observe high value of Homogeneity.<br /> 
--> The remaining land we classify as Aggricultiral land because it can contain properties of Barren land as well as Forest . 
+-> The remaining land we classify as Aggricultiral land because it can contain properties of Barren land as well as Forest . <br />
+
+![Screenshot](Term_proj.jpg)
