@@ -39,7 +39,7 @@ have forest.<br />
 -> Than we see if the dominant value of color is red than very likely the land is barren land. Else it is aggricultural land.<br />
 -> The Rest land can be treated as land containing Houses.<br />
 
-# Approch 2(Multi image):
+# Approach 2(Multi image):
 
 -> Here we pass the images having different type of land view.<br />
 -> Than we Find the Gray level co occurrence matrix(GLCM) for all the images.<br />
